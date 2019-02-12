@@ -2,7 +2,7 @@
   "name": "contactmanager",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ddexta.github.io/cmnored",
+  "homepage": "https://asorius.github.io/cmnored",
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.1.3",
